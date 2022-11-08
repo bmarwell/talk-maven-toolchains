@@ -1,0 +1,50 @@
+= Maven - was gibt es Neues?
+Benjamin Marwell <bmarwell@apache.org>
+//:revealjs_autoSlide: 5000
+:revealjs_history: true
+:revealjs_fragmentInURL: true
+:revealjs_viewDistance: 5
+:revealjs_width: 1280
+:revealjs_height: 720
+:revealjs_controls: true
+//:revealjs_controlsLayout: edges
+:revealjs_controlsTutorial: true
+:revealjs_slideNumber: c/t
+:revealjs_showSlideNumber: speaker
+//:revealjs_autoPlayMedia: true
+:revealjs_defaultTiming: 42
+:docinfo: shared
+:customcss: css/talk.css
+// :revealjsdir: reveal.js-3.9.2
+:revealjsdir: reveal.js-4.1.2
+:source-highlighter: highlightjs
+//:highlightjsdir: highlight.js
+:imagesdir: images
+:title-slide-background-image: 2022-10-25_mvn_bg.png
+:title-slide-transition: zoom
+:title-slide-transition-speed: fast
+:icons: font
+
+
+include::01_about.adoc[]
+
+== Inhalt
+
+image::mikolaj-DCzpr09cTXY-unsplash.jpg[background, size=cover]
+
+[%step]
+* Was sind Toolchains?
+* Wofür sind Toolchains gut?
+* Beispiel: Surefire-Plugin
+* Bonus: Toolchains-Maven-Plugin
+
+== Umfrage: Wer nutzt Java 17?
+
+[%step]
+* Wer nutzt Java 8?
+* Wer nutzt Java 11?
+* Wer nutzt Java 17+?
+* ... wer nutzt Java 6 oder 7?
+
+
+include::99_trailer.adoc[]

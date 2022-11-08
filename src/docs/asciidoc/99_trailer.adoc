@@ -1,0 +1,35 @@
+[.columns]
+== Dankeschön!
+
+[.column.has-text-left]
+--
+Referenz-Projekte:
+
+image::github-demos.png[]
+--
+
+
+[.column.has-text-left]
+--
+*Twitter:*
+
+🐦 @mthmulders
+
+🐦 @bmarwell
+--
+
+
+=== Quellenangaben
+
+* »magic book, black background, paper* by Mikołaj, +
+https://unsplash.com/photos/DCzpr09cTXY[]
+* Hands up (unnamed) by Thomas Chan, +
+https://unsplash.com/photos/0-8mwjp94Pk[]
+* »Kitty« by Jiawei Zhao, +
+https://unsplash.com/photos/W-ypTC6R7_k[]
+* »Gränsfors Bruk« by C D-X, +
+https://unsplash.com/photos/uHSiDTptzV4[]
+* »Big market in Ubud, Indonesia« by Bernard Hermant, +
+https://unsplash.com/photos/nHRXNv2qeDE[]
+* Reactor image (unnamed) by Mike U, +
+https://unsplash.com/photos/IdtnNvoP7M0[]

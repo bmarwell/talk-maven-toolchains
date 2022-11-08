@@ -1,0 +1,3 @@
+[submodule "maven-toolchain-example"]
+	path = maven-toolchain-example
+	url = https://github.com/khmarbaise/maven-toolchain-example.git
